@@ -33,8 +33,8 @@ DB_PATH = os.path.join(DB_DIR, "trading_bot.db")
 # Blockchain & API Settings
 # ------------------------------------------------------------------------------
 SOL_MINT_ADDRESS = "So11111111111111111111111111111111111111112"
-MY_ADDRESS = '3C6ApByWpV63zUQBrb9QtRH8am8HGUafmbxCtxswg5yV'
-API_KEY = "AtQBE9G-D0kyi7UDs29VHVk3stCX5_wR76waqi5fk9AX"
+MY_ADDRESS = ''
+API_KEY = ""
 drpc_url = f"https://lb.drpc.org/ogrpc?network=solana&dkey={API_KEY}"
 
 # ------------------------------------------------------------------------------
